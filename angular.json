@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shop-world-designs"
+    }
+  },
+  "defaultProject": "shop-world-designs",
+  "cli": {
+    "analytics": false
+  }
 }
